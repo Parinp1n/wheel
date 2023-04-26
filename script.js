@@ -11,11 +11,11 @@
 
   // Counter clockwise
   const symbolSegments = {
-    1: { name: "SAD AEROBIC", videoId: "g-B7tpa7Ilc" },
-    2: { name: "สิฮิน้องบ่", videoId: "yU8rnrnXSMo" },
-    3: { name: "จินนี่จ๋า", videoId: "nii-jnwBiqY" },
-    4: { name: "ธาตุทองซาวด์", videoId: "EduAOS7yXHg" },
-    5: { name: "Taki Taki", videoId: "VZOBjI-Vm8w" },
+    1: { name: "แอโรบิก", videoId: "EduAOS7yXHg" },
+    2: { name: "ยืดกล้ามเนื้อ", videoId: "KBBjyg3A-74" },
+    3: { name: "โยคะ", videoId: "JKNhIS0hJAE" },
+    4: { name: "TABATA", videoId: "8Luxhv3WkKg" },
+    5: { name: "สร้างกล้ามเนื้อ", videoId: "CcJQbG3WXDM" },
   };
 
   const handleWin = (actualDeg) => {
